@@ -5,9 +5,11 @@
 
 ### 🧪 Featured Projects
 
-* 🛠️ **[EcoVerify](https://github.com/duaawaseem/EcoVerify)** – Research prototype for evidence-grounded environmental metric extraction comparing prompt-based & hybrid RAG configurations (GPT-4o Mini & Qwen2.5-1.5B-Instruct).
-* 📊 **[Amazon Customer Segmentation](https://github.com/duaawaseem/amazon_customer_segmentation)** – Customer segmentation and behavior analysis for e-commerce.
-* 👁️ **[DR-detection](https://github.com/duaawaseem/DR-detection)** – Computer vision & deep learning pipeline for diabetic retinopathy detection.
+* **[EcoVerify](https://github.com/duaawaseem/EcoVerify)** – Research prototype for evidence-grounded environmental metric extraction comparing prompt-based & hybrid RAG configurations (GPT-4o Mini & Qwen2.5-1.5B-Instruct).
+* **[Amazon Customer Segmentation](https://github.com/duaawaseem/amazon_customer_segmentation)** – Customer segmentation and behavior analysis for e-commerce.
+
+### 📚 Personal Projects
+* **[DR-detection](https://github.com/duaawaseem/DR-detection)** – Computer vision & deep learning pipeline for diabetic retinopathy detection.
 
 ---
 
