@@ -1,5 +1,5 @@
 🎓 **First-class Data Science Graduate**  
-💡 **Focus:** Workflow Automation, AI Enablement, & AI Safety  
+💡 **Focus:** Workflow Automation / AI Safety  
 
 ---
 
