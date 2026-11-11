@@ -2,7 +2,7 @@
 
 ---
 
-### 🧪 Academic Projects
+### 🧪 Undergraduate Projects
 
 * **[EcoVerify](https://github.com/duaawaseem/EcoVerify)** – Research prototype for evidence-grounded environmental metric extraction comparing prompt-based & hybrid RAG configurations (GPT-4o Mini & Qwen2.5-1.5B-Instruct).
 
